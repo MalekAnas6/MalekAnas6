@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Malek Anas</h1>
-<h3 align="center">I’m a Computer Science student and Data Engineer Intern with hands-on experience in building data pipelines, processing large-scale datasets, and managing relational databases. Proficient in Python, C#, Azure Synapse, Apache Spark, Kafka, Airflow, SSIS, and basic knowledge of cyber security, and networking. I’m passionate about creating efficient, scalable solutions and contributing to real-world projects while continuously learning and growing in collaborative environments.</h3>
+<h3 align="center">I’m a Computer Science student and Data Engineer Intern with hands-on experience in building data pipelines, processing large-scale datasets, and managing relational databases. Proficient in Python, C#, Azure Synapse, Apache Spark, Kafka, Airflow, SSIS. With basic knowledge of cyber security, and networking. I’m passionate about creating efficient, scalable solutions and contributing to real-world projects while continuously learning and growing in collaborative environments.</h3>
 
 
 <h3 align="left">Connect with me:</h3>
