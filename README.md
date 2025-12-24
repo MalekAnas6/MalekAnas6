@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m a Computer Science student and Data Engineer Intern with hands-on experience in building data pipelines, processing large-scale datasets, and managing relational databases. Proficient in Python, C#, Azure Synapse, Databricks, Apache Spark, Kafka, Airflow and SSIS. With basic knowledge of cybersecurity, and networking. I’m passionate about creating efficient, scalable solutions and contributing to real-world projects while continuously learning and growing in collaborative environments.
+Data Engineer with hands-on experience in building data pipelines, processing large-scale datasets, and managing relational databases. Proficient in Python, C#, Azure Synapse, Databricks, Apache Spark, Kafka, Airflow, n8n and SSIS. With basic knowledge of cybersecurity, and networking. I’m passionate about creating efficient, scalable solutions and contributing to real-world projects while continuously learning and growing in collaborative environments.
 
 
 ## 🌐 Socials:
