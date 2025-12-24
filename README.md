@@ -1,5 +1,5 @@
 # 💫 About Me:
-Data Engineer experienced in building and automating data pipelines, ingesting large datasets, and delivering reliable ETL workflows. Focused on transforming raw data into high-quality, analytics-ready systems through efficient, scalable design.
+Data Engineer working on end-to-end data pipelines, from ingestion to transformation and storage. Experienced in handling large datasets and building dependable ETL processes that produce clean, analytics-ready data. Focused on scalable design, automation, and improving data reliability and performance across systems.
 
 
 ## 🌐 Socials:
