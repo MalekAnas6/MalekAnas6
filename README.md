@@ -1,5 +1,5 @@
 # 💫 About Me:
-Data Engineer with hands-on experience in building data pipelines, processing large-scale datasets, and managing relational databases. Proficient in Python, C#, Azure Synapse, Databricks, Apache Spark, Kafka, Airflow, n8n and SSIS. I’m passionate about creating efficient, scalable solutions and contributing to real-world projects while continuously learning and growing in collaborative environments.
+Data Engineer experienced in building and automating data pipelines, ingesting large datasets, and delivering reliable ETL workflows. Focused on transforming raw data into high-quality, analytics-ready systems through efficient, scalable design.
 
 
 ## 🌐 Socials:
